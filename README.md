@@ -18,7 +18,7 @@ The number of resources on the stage reached up to a couple of dozen.
 The number of levels in the game reached 1000+.
 
 
-# Usage / Функции
+# Usage / Functions 
 The use of tools is simplified to the primitive.
 
 In the `Replace prefab` window, you need to set Original prefab (replaced) and New prefab (what we are replacing), set the offset relative to the old prefab (optional, if not necessary, leave (0, 0, 0)). 
@@ -26,7 +26,7 @@ In the `Replace prefab` window, you need to set Original prefab (replaced) and N
 After installing the prefabs in the window - click on the Replace button and RPT to replace all the original prefabs on the scene with new ones. In case of error - there is support for Ctrl + Z, Ctrl + Y. 
 
 
-# Изменения with SmartReplace
+# Differences with SmartReplace
 - Added the ability to replace multiple objects on the scene;
 - Added the ability to set a position offset relative to the originl prefab (Prefabs do not always have the same size, and setting many objects by hand is a long practice);
 - Support Ctrl+Z, Ctrl+Y
